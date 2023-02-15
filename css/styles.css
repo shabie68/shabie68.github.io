@@ -1,0 +1,14 @@
+#mignon-container {
+	margin: 10px;
+}
+
+#mignon-header {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	width: 100%
+}
+
+.mignon-header-links {
+	margin-left: auto;
+}
