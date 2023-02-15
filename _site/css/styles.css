@@ -12,3 +12,14 @@
 .mignon-header-links {
 	margin-left: auto;
 }
+
+#mignon-sidebar {
+	display: none;
+}
+
+#mignon-logo {
+	width: 10%;
+}
+#mignon-logo img {
+	width: 100%;
+}
