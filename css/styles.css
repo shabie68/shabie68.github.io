@@ -28,3 +28,19 @@
 #mignon-body {
 	margin-top: 10px;
 }
+
+#mignon-slider{
+	display: flex;
+	gap: 20px;
+	width: 100%;
+	margin-top: 10px;
+}
+
+#mignon-slider div{
+	background: lightgray;
+}
+
+.mignon-intro-sentences, .mignon-rules-usage, .mignon-parts-of-body {
+	width: 33%;
+
+}
