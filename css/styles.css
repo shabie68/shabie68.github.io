@@ -45,3 +45,12 @@
 	padding: 16px;
 
 }
+
+.mignon-intro-table {
+	border: 2px solid;
+	text-align: center;
+	width: 100%;
+
+}
+
+.mignon-intro-table:nth-o
